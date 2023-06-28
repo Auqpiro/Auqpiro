@@ -4,11 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a beginner Front-end developer
 ----------------------------------
 
-I strive for professional growth, do not stop there and continue to learn related technologies
-
 * 🌍  I'm based in Mexico
-* ✉️  You can contact me at [zzoomzoone@gmail.com](mailto:zzoomzoone@gmail.com)
-* 🧠  I'm learning Reack, Redux Toolkit
+* ✉️  You can contact me at
+  
+  [![mail to Ivan Konovalov](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzoomzoone@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auqpiro/)
+  [![Telegram Chat](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/auqpiro)
+* 🧠  I strive for professional growth, do not stop there and continue to learn related technologies
 
 ### Skills
 
@@ -24,6 +26,5 @@ I strive for professional growth, do not stop there and continue to learn relate
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
-### Codewars
-
-![image](https://www.codewars.com/users/Auqpiro/badges/large)
+[![CodeWars user Auqpiro](https://www.codewars.com/users/Auqpiro/badges/micro)](https://www.codewars.com/users/Auqpiro)
+[![LeetCode user Auqpiro](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAuqpiro&logo=leetcode&logoColor=yellow)](https://leetcode.com/Auqpiro/)
