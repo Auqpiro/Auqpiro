@@ -1,16 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Konovalov
+Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">My name is Ivan Konovalov
 ======================================================================================================================================
-
-I'm a beginner Front-end developer
-----------------------------------
-
-* 🌍  I'm based in Mexico
-* ✉️  You can contact me at
-  
-  [![mail to Ivan Konovalov](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzoomzoone@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auqpiro/)
-  [![Telegram Chat](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/auqpiro)
-* 🧠  I strive for professional growth, do not stop there and continue to learn related technologies
+[![mail to Ivan Konovalov](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zzoomzoone@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/auqpiro/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/auqpiro)
+[![CodeWars user Auqpiro](https://www.codewars.com/users/Auqpiro/badges/micro)](https://www.codewars.com/users/Auqpiro)
+[![LeetCode user Auqpiro](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAuqpiro&logo=leetcode&logoColor=yellow)](https://leetcode.com/Auqpiro/)
 
 ### Skills
 
@@ -25,6 +19,3 @@ I'm a beginner Front-end developer
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
-
-[![CodeWars user Auqpiro](https://www.codewars.com/users/Auqpiro/badges/micro)](https://www.codewars.com/users/Auqpiro)
-[![LeetCode user Auqpiro](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAuqpiro&logo=leetcode&logoColor=yellow)](https://leetcode.com/Auqpiro/)
