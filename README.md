@@ -6,7 +6,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 [![CodeWars user Auqpiro](https://www.codewars.com/users/Auqpiro/badges/micro)](https://www.codewars.com/users/Auqpiro)
 [![LeetCode user Auqpiro](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAuqpiro&logo=leetcode&logoColor=yellow)](https://leetcode.com/Auqpiro/)
 
-### Skills
+### Hard skills
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="34" alt="Git" /></a>
@@ -22,14 +22,12 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="34" height="34" alt="Jest" /></a>
 </p>
 
 ### Pioneering
 
 <p align="left">
-<a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" width="36" height="36" alt="Pug" /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="34" height="34" alt="Jest" /></a>
 <a href="https://nodejs.org/ru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
